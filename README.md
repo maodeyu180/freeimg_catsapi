@@ -1,7 +1,7 @@
 # freeimg_catsapi · 喵的公益生图
 
-一个极简的免费 AI 生图 / 生视频站点，通过反向代理 [`ldc_gen_image`](https://catsapi.com)
-（CatsAPI）的 API 实现——后端用一个内部账号的 API Key 调用上游，所有登录用户共享 **全局 2 并发** 的生成能力。
+一个极简的免费 AI 生图 / 生视频站点，通过反向代理 [`catspi`](https://catsapi.com)
+（CatsAPI）的 API 实现——后端用一个内部账号的 API Key 调用上游，所有登录用户共享 **全局 4 并发** 的生成能力。
 
 ## 特点
 
